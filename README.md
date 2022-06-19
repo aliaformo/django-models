@@ -21,7 +21,7 @@ Create migrations for your new model using the makemigrations Django command.
 Run all migrations using the migrate Django command.
 Stage and Commit your Django project and push your changes to your GitHub repository.
 
-#### 🔧 Tools
+### 🔧 Tools
 Django version 4.0.5
 
 Python version 3.10.4
@@ -32,11 +32,14 @@ Git  2.36.1
 
 Github repository
 
-#### 📌 Important links
+### 📌 Important links
 --Django: https://www.djangoproject.com/
+
 --Python: https://www.python.org/
+
 --Visual: Studio Code https://code.visualstudio.com/
+
 -- Git: https://git-scm.com/
 
-##### ⭐ Thanks I4GxZuri Team and Mentors 🏅
+#### ⭐ Thanks I4GxZuri Team and Mentors 🏅
 
